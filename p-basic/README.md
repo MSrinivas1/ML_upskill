@@ -1,11 +1,11 @@
 Cover tops on 
-    - data type
-    - collections(tuple, array, list, set , dictionary)
-    - function molude, packege
-    - Exceptions
-    - file 
-    - pickling
-    - os module
+    * data type
+    * collections(tuple, array, list, set , dictionary)
+    * function molude, packege
+    * Exceptions
+    * file 
+    * pickling
+    * os module
 
 
 Data type
