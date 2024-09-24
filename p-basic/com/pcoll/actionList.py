@@ -1,6 +1,6 @@
 def createList(t):
   l = list(t)
-  printList(l);
+  printList(l)
   return l
 
 def printList(l):
@@ -11,7 +11,7 @@ def printList(l):
 def actionList(listvalue, actionValue ):
   listvalue.pop(actionValue)
 
-if __name__ == "__main__":
+if __name__ == "__main_":
 
   print("main started")
 
